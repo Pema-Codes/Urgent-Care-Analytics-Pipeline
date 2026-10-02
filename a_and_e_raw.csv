@@ -1,0 +1,201 @@
+Patient_ID,Site_Name,Arrival_Timestamp,Departure_Timestamp,Wait_Time_Minutes,Acuity_Level,Disposition
+NHS_1000,St Marys Hospital,2026-09-06 01:10:00,2026-09-06 04:14:00,184,Majors,Discharged
+NHS_1001,Charing Cross Hospital,2026-09-01 14:20:00,2026-09-01 17:14:00,174,Minors,Admitted
+NHS_1002,Hammersmith Hospital,2026-09-04 17:50:00,2026-09-04 21:00:00,190,Minors,Discharged
+NHS_1003,St Marys Hospital,2026-09-10 07:38:00,2026-09-10 13:19:00,341,Minors,Discharged
+NHS_1004,St Marys Hospital,2026-09-04 14:31:00,2026-09-04 17:21:00,170,Minors,Discharged
+NHS_1005,Charing Cross Hospital,2026-09-09 07:24:00,2026-09-09 08:39:00,-15,Minors,Discharged
+NHS_1006,Hammersmith Hospital,2026-09-08 20:04:00,2026-09-08 21:08:00,64,Majors,Admitted
+NHS_1007,Hammersmith Hospital,2026-09-04 23:34:00,2026-09-05 02:17:00,163,Majors,Admitted
+NHS_1008,Charing Cross Hospital,2026-09-05 08:25:00,2026-09-05 10:16:00,111,Majors,Discharged
+NHS_1009,Charing Cross Hospital,2026-09-01 07:46:00,2026-09-01 12:13:00,267,Urgent Treatment Centre,Discharged
+NHS_1010,Hammersmith Hospital,2026-09-10 09:26:00,2026-09-10 14:34:00,308,Minors,Discharged
+NHS_1011,St Marys Hospital,2026-09-04 01:46:00,2026-09-04 04:48:00,182,Minors,Discharged
+NHS_1012,St. Marys Hosp,2026-09-04 20:58:00,2026-09-04 21:37:00,39,Minors,Admitted
+NHS_1013,Charing Cross Hospital,2026-09-09 01:56:00,2026-09-09 03:21:00,85,Urgent Treatment Centre,Discharged
+NHS_1014,St Marys Hospital,2026-09-08 21:23:00,2026-09-09 02:11:00,288,Majors,Discharged
+NHS_1015,St Marys Hospital,2026-09-08 17:11:00,2026-09-08 19:29:00,138,Minors,Discharged
+NHS_1016,Charing Cross Hospital,2026-09-06 18:42:00,2026-09-06 19:16:00,34,Minors,Admitted
+NHS_1017,Charing Cross Hospital,2026-09-02 04:05:00,2026-09-02 10:18:00,373,Minors,Discharged
+NHS_1018,Charing Cross Hospital,2026-09-01 12:49:00,2026-09-01 18:52:00,363,Resus,Discharged
+NHS_1019,Hammersmith Hospital,2026-09-08 08:23:00,2026-09-08 10:50:00,147,Urgent Treatment Centre,Admitted
+NHS_1020,Hammersmith Hospital,2026-09-10 14:03:00,2026-09-10 15:37:00,94,Urgent Treatment Centre,Transferred
+NHS_1021,St Marys Hospital,2026-09-05 19:49:00,2026-09-05 22:44:00,175,Minors,Admitted
+NHS_1022,Charing Cross Hospital,2026-09-02 16:33:00,2026-09-02 19:59:00,206,Minors,Left before seen
+NHS_1023,St Marys Hospital,2026-09-04 16:31:00,2026-09-04 17:11:00,40,Urgent Treatment Centre,Discharged
+NHS_1024,St Marys Hospital,2026-09-04 12:11:00,2026-09-04 14:05:00,114,Minors,Admitted
+NHS_1025,St Marys Hospital,2026-09-05 11:00:00,2026-09-05 11:55:00,55,Majors,Discharged
+NHS_1026,St Marys Hospital,2026-09-01 19:44:00,2026-09-01 21:16:00,92,Minors,Discharged
+NHS_1027,Charing Cross Hospital,2026-09-04 03:55:00,2026-09-04 05:50:00,115,Minors,Discharged
+NHS_1028,St Marys Hospital,2026-09-03 08:25:00,2026-09-03 09:53:00,88,Minors,Discharged
+NHS_1029,Charing Cross Hospital,2026-09-09 13:09:00,2026-09-09 14:05:00,56,Minors,Discharged
+NHS_1030,Charing Cross Hospital,2026-09-05 10:36:00,2026-09-05 14:02:00,206,Urgent Treatment Centre,Discharged
+NHS_1031,Hammersmith Hospital,2026-09-10 01:15:00,2026-09-10 08:36:00,441,Urgent Treatment Centre,Discharged
+NHS_1032,Charing Cross Hospital,2026-09-08 16:56:00,2026-09-08 19:03:00,127,Minors,Admitted
+NHS_1033,Hammersmith Hospital,2026-09-07 00:26:00,2026-09-07 02:40:00,134,Majors,Discharged
+NHS_1034,Charing Cross Hospital,2026-09-07 10:34:00,2026-09-07 14:23:00,229,Urgent Treatment Centre,Admitted
+NHS_1035,Charing Cross Hospital,2026-09-02 18:38:00,2026-09-02 21:16:00,158,Urgent Treatment Centre,Left before seen
+NHS_1036,Charing Cross Hospital,2026-09-06 10:49:00,2026-09-06 13:47:00,178,Majors,Transferred
+NHS_1037,Hammersmith Hospital,2026-09-02 10:07:00,2026-09-02 16:46:00,399,Urgent Treatment Centre,Admitted
+NHS_1038,Hammersmith Hospital,2026-09-02 21:47:00,2026-09-03 05:09:00,442,Urgent Treatment Centre,Discharged
+NHS_1039,St Marys Hospital,2026-09-07 08:47:00,2026-09-07 10:51:00,124,Minors,Transferred
+NHS_1040,Hammersmith Hospital,2026-09-07 22:38:00,2026-09-08 01:20:00,162,Minors,Admitted
+NHS_1041,Hammersmith Hospital,2026-09-01 03:09:00,2026-09-01 08:24:00,315,Majors,Discharged
+NHS_1042,Hammersmith Hospital,2026-09-02 21:34:00,2026-09-02 22:06:00,32,Majors,Transferred
+NHS_1043,Hammersmith Hospital,2026-09-03 02:05:00,2026-09-03 02:57:00,52,Majors,Admitted
+NHS_1044,St Marys Hospital,2026-09-04 05:38:00,2026-09-04 09:33:00,235,Urgent Treatment Centre,Discharged
+NHS_1045,Hammersmith Hospital,2026-09-02 07:39:00,2026-09-02 10:53:00,194,Resus,Admitted
+NHS_1046,Charing Cross Hospital,2026-09-06 08:54:00,2026-09-06 10:46:00,112,Majors,Transferred
+NHS_1047,Charing Cross Hospital,2026-09-01 21:07:00,2026-09-02 00:01:00,174,Majors,Left before seen
+NHS_1048,Hammersmith Hospital,2026-09-02 01:28:00,2026-09-02 03:22:00,114,Minors,Transferred
+NHS_1049,Hammersmith Hospital,2026-09-08 21:54:00,2026-09-08 23:41:00,107,Urgent Treatment Centre,Discharged
+NHS_1050,Charing Cross Hospital,2026-09-03 11:16:00,2026-09-03 17:38:00,382,Majors,Discharged
+NHS_1051,Charing Cross Hospital,2026-09-03 16:50:00,2026-09-03 17:20:00,30,Majors,Discharged
+NHS_1052,St Marys Hospital,2026-09-07 03:18:00,2026-09-07 04:38:00,80,Minors,Discharged
+NHS_1053,Charing Cross Hospital,2026-09-10 23:16:00,2026-09-11 04:36:00,320,Minors,Discharged
+NHS_1054,Charing Cross Hospital,2026-09-08 16:40:00,2026-09-08 21:24:00,284,Majors,Admitted
+NHS_1055,Hammersmith Hospital,2026-09-04 17:53:00,2026-09-04 20:15:00,142,Minors,Discharged
+NHS_1056,Charing Cross Hospital,2026-09-08 09:07:00,2026-09-08 10:08:00,61,Majors,Admitted
+NHS_1057,St Marys Hospital,2026-09-07 02:32:00,2026-09-07 06:55:00,263,Majors,Admitted
+NHS_1058,Charing Cross Hospital,2026-09-08 07:55:00,2026-09-08 09:56:00,121,Minors,Admitted
+NHS_1059,Hammersmith Hospital,2026-09-08 02:53:00,2026-09-08 08:07:00,314,Minors,Discharged
+NHS_1060,Hammersmith Hospital,2026-09-06 20:33:00,2026-09-06 22:14:00,101,Urgent Treatment Centre,Discharged
+NHS_1061,Charing Cross Hospital,2026-09-08 02:33:00,2026-09-08 10:14:00,461,Majors,Discharged
+NHS_1062,Hammersmith Hospital,2026-09-08 15:36:00,2026-09-08 18:39:00,183,Minors,Admitted
+NHS_1063,St Marys Hospital,2026-09-06 05:13:00,2026-09-06 08:24:00,191,Minors,Discharged
+NHS_1064,St Marys Hospital,2026-09-02 19:32:00,2026-09-02 21:59:00,147,Resus,Discharged
+NHS_1065,Charing Cross Hospital,2026-09-05 21:21:00,2026-09-06 02:33:00,312,Minors,Discharged
+NHS_1066,Charing Cross Hospital,2026-09-07 15:15:00,2026-09-07 17:47:00,152,Majors,Discharged
+NHS_1067,Charing Cross Hospital,2026-09-05 07:55:00,2026-09-05 13:29:00,334,Urgent Treatment Centre,Discharged
+NHS_1068,Hammersmith Hospital,2026-09-04 19:26:00,2026-09-04 20:07:00,41,Majors,Discharged
+NHS_1069,St Marys Hospital,2026-09-05 22:19:00,2026-09-05 23:42:00,83,Minors,Discharged
+NHS_1070,St Marys Hospital,2026-09-07 17:10:00,2026-09-07 19:52:00,162,Majors,Admitted
+NHS_1071,Hammersmith Hospital,2026-09-08 11:08:00,2026-09-08 12:34:00,86,Urgent Treatment Centre,Admitted
+NHS_1072,St Marys Hospital,2026-09-01 12:55:00,2026-09-01 15:49:00,174,Minors,Discharged
+NHS_1073,Charing Cross Hospital,2026-09-09 11:26:00,2026-09-09 13:47:00,141,Minors,Admitted
+NHS_1074,Charing Cross Hospital,2026-09-06 17:06:00,2026-09-06 18:22:00,76,Majors,Discharged
+NHS_1075,Charing Cross Hospital,2026-09-03 04:32:00,2026-09-03 11:23:00,411,Minors,Discharged
+NHS_1076,St Marys Hospital,2026-09-08 01:07:00,2026-09-08 08:33:00,446,Majors,Transferred
+NHS_1077,Charing Cross Hospital,2026-09-02 02:25:00,2026-09-02 05:16:00,171,Urgent Treatment Centre,Discharged
+NHS_1078,Hammersmith Hospital,2026-09-03 17:43:00,2026-09-03 19:18:00,95,Majors,Left before seen
+NHS_1079,Hammersmith Hospital,2026-09-06 05:55:00,2026-09-06 07:39:00,104,Majors,Discharged
+NHS_1080,St Marys Hospital,2026-09-03 03:13:00,2026-09-03 06:41:00,208,Resus,Discharged
+NHS_1081,Hammersmith Hospital,2026-09-01 17:01:00,2026-09-01 19:13:00,132,Minors,Discharged
+NHS_1082,Hammersmith Hospital,2026-09-09 02:13:00,2026-09-09 05:28:00,195,Minors,Discharged
+NHS_1083,St Marys Hospital,2026-09-08 12:05:00,2026-09-08 13:12:00,67,Majors,Discharged
+NHS_1084,Charing Cross Hospital,2026-09-10 07:37:00,2026-09-10 08:56:00,79,Minors,Discharged
+NHS_1085,Charing Cross Hospital,2026-09-03 16:03:00,2026-09-03 18:10:00,127,Minors,Left before seen
+NHS_1086,Charing Cross Hospital,2026-09-06 13:09:00,2026-09-06 15:00:00,111,Minors,Discharged
+NHS_1087,St Marys Hospital,2026-09-07 17:32:00,2026-09-07 21:24:00,232,Minors,Discharged
+NHS_1088,Hammersmith Hospital,2026-09-10 00:30:00,2026-09-10 07:46:00,436,Minors,Discharged
+NHS_1089,Charing Cross Hospital,2026-09-05 18:33:00,2026-09-05 20:33:00,120,Minors,Discharged
+NHS_1090,Charing Cross Hospital,2026-09-04 22:35:00,2026-09-05 02:03:00,208,Majors,Admitted
+NHS_1091,St Marys Hospital,2026-09-01 02:41:00,2026-09-01 09:57:00,436,Majors,Admitted
+NHS_1092,Charing Cross Hospital,2026-09-03 23:37:00,2026-09-04 06:23:00,406,Urgent Treatment Centre,Discharged
+NHS_1093,St Marys Hospital,2026-09-08 01:33:00,2026-09-08 03:21:00,108,Urgent Treatment Centre,Admitted
+NHS_1094,Hammersmith Hospital,2026-09-01 16:35:00,2026-09-01 23:11:00,396,Majors,Admitted
+NHS_1095,St Marys Hospital,2026-09-10 02:23:00,2026-09-10 07:42:00,319,Majors,Admitted
+NHS_1096,St Marys Hospital,2026-09-09 00:14:00,2026-09-09 01:34:00,80,Minors,Admitted
+NHS_1097,St Marys Hospital,2026-09-09 20:23:00,2026-09-09 22:13:00,110,Minors,Admitted
+NHS_1098,St Marys Hospital,2026-09-06 07:09:00,2026-09-06 09:51:00,162,Resus,Left before seen
+NHS_1099,Hammersmith Hospital,2026-09-09 07:50:00,2026-09-09 15:12:00,442,Majors,Discharged
+NHS_1100,Hammersmith Hospital,2026-09-07 13:47:00,2026-09-07 16:28:00,161,Minors,Discharged
+NHS_1101,Charing Cross Hospital,2026-09-01 16:56:00,2026-09-01 22:59:00,363,Minors,Discharged
+NHS_1102,Hammersmith Hospital,2026-09-06 11:09:00,2026-09-06 14:03:00,174,Resus,Admitted
+NHS_1103,Hammersmith Hospital,2026-09-05 11:19:00,2026-09-05 13:02:00,103,Majors,Transferred
+NHS_1104,Charing Cross Hospital,2026-09-06 11:32:00,2026-09-06 12:18:00,46,Majors,Discharged
+NHS_1105,Hammersmith Hospital,2026-09-05 18:23:00,2026-09-05 20:16:00,113,Minors,Admitted
+NHS_1106,St Marys Hospital,2026-09-06 11:56:00,2026-09-06 13:34:00,98,Resus,Discharged
+NHS_1107,St Marys Hospital,2026-09-06 22:09:00,2026-09-06 23:12:00,63,Majors,Discharged
+NHS_1108,Charing Cross Hospital,2026-09-01 14:38:00,2026-09-01 19:14:00,276,Minors,Transferred
+NHS_1109,Charing Cross Hospital,2026-09-07 10:28:00,2026-09-07 11:50:00,82,Majors,Discharged
+NHS_1110,Charing Cross Hospital,2026-09-04 09:27:00,2026-09-04 12:02:00,155,Minors,Discharged
+NHS_1111,St Marys Hospital,2026-09-09 11:05:00,2026-09-09 17:45:00,400,Majors,Admitted
+NHS_1112,Hammersmith Hospital,2026-09-04 08:59:00,2026-09-04 11:23:00,144,Majors,Left before seen
+NHS_1113,St Marys Hospital,2026-09-05 09:31:00,2026-09-05 11:51:00,140,Majors,Admitted
+NHS_1114,Charing Cross Hospital,2026-09-06 22:51:00,2026-09-07 01:51:00,180,Minors,Transferred
+NHS_1115,Hammersmith Hospital,2026-09-07 00:44:00,2026-09-07 02:33:00,109,Urgent Treatment Centre,Discharged
+NHS_1116,Hammersmith Hospital,2026-09-06 00:08:00,2026-09-06 02:12:00,124,Urgent Treatment Centre,Discharged
+NHS_1117,St Marys Hospital,2026-09-04 15:56:00,2026-09-04 18:23:00,147,Majors,Discharged
+NHS_1118,Charing Cross Hospital,2026-09-02 10:22:00,2026-09-02 13:15:00,173,Minors,Admitted
+NHS_1119,St Marys Hospital,2026-09-09 09:16:00,2026-09-09 09:53:00,37,Majors,Admitted
+NHS_1120,Hammersmith Hospital,2026-09-01 01:04:00,2026-09-01 08:38:00,454,Majors,Admitted
+NHS_1121,St Marys Hospital,2026-09-06 13:26:00,2026-09-06 15:39:00,133,Urgent Treatment Centre,Admitted
+NHS_1122,St Marys Hospital,2026-09-02 18:48:00,2026-09-02 21:29:00,161,Resus,Discharged
+NHS_1123,Charing Cross Hospital,2026-09-04 19:03:00,2026-09-04 23:58:00,295,Majors,Discharged
+NHS_1124,Charing Cross Hospital,2026-09-10 08:00:00,2026-09-10 10:05:00,125,Majors,Admitted
+NHS_1125,Hammersmith Hospital,2026-09-02 09:47:00,2026-09-02 14:40:00,293,Resus,Left before seen
+NHS_1126,St Marys Hospital,2026-09-02 20:55:00,2026-09-02 22:57:00,122,Majors,Discharged
+NHS_1127,St Marys Hospital,2026-09-07 17:27:00,2026-09-07 20:36:00,189,Minors,Transferred
+NHS_1128,St Marys Hospital,2026-09-04 15:38:00,2026-09-04 19:05:00,207,Minors,Left before seen
+NHS_1129,Hammersmith Hospital,2026-09-04 21:38:00,2026-09-04 23:08:00,90,Urgent Treatment Centre,Admitted
+NHS_1130,Hammersmith Hospital,2026-09-05 16:16:00,2026-09-05 22:16:00,360,Urgent Treatment Centre,Discharged
+NHS_1131,Charing Cross Hospital,2026-09-01 06:31:00,2026-09-01 07:51:00,80,Majors,Discharged
+NHS_1132,Charing Cross Hospital,2026-09-10 17:06:00,2026-09-10 20:02:00,176,Majors,Discharged
+NHS_1133,Charing Cross Hospital,2026-09-09 19:46:00,2026-09-09 20:36:00,50,Majors,Admitted
+NHS_1134,St Marys Hospital,2026-09-09 19:06:00,2026-09-09 19:40:00,34,Minors,Discharged
+NHS_1135,St Marys Hospital,2026-09-05 02:12:00,2026-09-05 04:13:00,121,Majors,Admitted
+NHS_1136,Charing Cross Hospital,2026-09-03 11:21:00,2026-09-03 14:40:00,199,Minors,Admitted
+NHS_1137,St Marys Hospital,2026-09-08 06:30:00,2026-09-08 08:00:00,90,Minors,Discharged
+NHS_1138,Charing Cross Hospital,2026-09-05 07:04:00,2026-09-05 07:55:00,51,Minors,Discharged
+NHS_1139,Hammersmith Hospital,2026-09-03 03:39:00,2026-09-03 06:37:00,178,Minors,Discharged
+NHS_1140,Charing Cross Hospital,2026-09-05 08:38:00,2026-09-05 15:54:00,436,Majors,Admitted
+NHS_1141,Hammersmith Hospital,2026-09-06 19:52:00,2026-09-06 20:22:00,30,Urgent Treatment Centre,Discharged
+NHS_1142,St Marys Hospital,2026-09-10 19:51:00,2026-09-10 22:33:00,162,Minors,Admitted
+NHS_1143,Charing Cross Hospital,2026-09-10 01:47:00,2026-09-10 02:28:00,41,Majors,Admitted
+NHS_1144,St Marys Hospital,2026-09-03 03:44:00,2026-09-03 05:43:00,119,Urgent Treatment Centre,Discharged
+NHS_1145,Hammersmith Hospital,2026-09-06 00:15:00,2026-09-06 06:41:00,386,Minors,Left before seen
+NHS_1146,Hammersmith Hospital,2026-09-09 21:10:00,2026-09-09 22:13:00,63,Urgent Treatment Centre,Discharged
+NHS_1147,Hammersmith Hospital,2026-09-02 16:54:00,2026-09-02 20:20:00,206,Minors,Discharged
+NHS_1148,St Marys Hospital,2026-09-09 05:17:00,2026-09-09 09:15:00,238,Minors,Discharged
+NHS_1149,St Marys Hospital,2026-09-10 17:59:00,2026-09-10 19:13:00,74,Resus,Discharged
+NHS_1150,St Marys Hospital,2026-09-07 05:56:00,2026-09-07 09:00:00,184,Majors,Admitted
+NHS_1151,St Marys Hospital,2026-09-02 21:31:00,2026-09-02 23:13:00,102,Minors,Discharged
+NHS_1152,Hammersmith Hospital,2026-09-10 20:23:00,2026-09-10 21:18:00,55,Minors,Discharged
+NHS_1153,Hammersmith Hospital,2026-09-08 14:45:00,2026-09-08 16:01:00,76,Majors,Admitted
+NHS_1154,Charing Cross Hospital,2026-09-06 15:54:00,2026-09-06 18:24:00,150,Majors,Discharged
+NHS_1155,Charing Cross Hospital,2026-09-07 18:42:00,2026-09-07 20:07:00,85,Urgent Treatment Centre,Discharged
+NHS_1156,St Marys Hospital,2026-09-04 12:16:00,2026-09-04 14:19:00,123,Urgent Treatment Centre,Admitted
+NHS_1157,Hammersmith Hospital,2026-09-06 15:10:00,2026-09-06 17:26:00,136,Minors,Admitted
+NHS_1158,Hammersmith Hospital,2026-09-10 13:33:00,2026-09-10 15:05:00,92,Majors,Discharged
+NHS_1159,Hammersmith Hospital,2026-09-08 13:22:00,2026-09-08 14:39:00,77,Majors,Admitted
+NHS_1160,Charing Cross Hospital,2026-09-03 16:00:00,2026-09-03 17:30:00,90,Resus,Discharged
+NHS_1161,Charing Cross Hospital,2026-09-01 17:08:00,2026-09-01 18:58:00,110,Urgent Treatment Centre,Discharged
+NHS_1162,Hammersmith Hospital,2026-09-06 03:05:00,2026-09-06 04:00:00,55,Majors,Discharged
+NHS_1163,Hammersmith Hospital,2026-09-01 08:22:00,2026-09-01 09:27:00,65,Minors,Discharged
+NHS_1164,Hammersmith Hospital,2026-09-05 19:10:00,2026-09-05 19:40:00,30,Majors,Discharged
+NHS_1165,Charing Cross Hospital,2026-09-09 19:25:00,2026-09-09 20:02:00,37,Minors,Discharged
+NHS_1166,Hammersmith Hospital,2026-09-07 07:02:00,2026-09-07 09:24:00,142,Minors,Discharged
+NHS_1167,Hammersmith Hospital,2026-09-05 19:38:00,2026-09-05 21:46:00,128,Urgent Treatment Centre,Discharged
+NHS_1168,St Marys Hospital,2026-09-04 02:48:00,2026-09-04 06:17:00,209,Majors,Admitted
+NHS_1169,St Marys Hospital,2026-09-01 03:26:00,2026-09-01 08:25:00,299,Resus,Discharged
+NHS_1170,Charing Cross Hospital,2026-09-04 13:34:00,2026-09-04 16:10:00,156,Majors,Discharged
+NHS_1171,Hammersmith Hospital,2026-09-05 03:37:00,2026-09-05 10:39:00,422,Urgent Treatment Centre,Discharged
+NHS_1172,Hammersmith Hospital,2026-09-06 08:41:00,2026-09-06 09:24:00,43,Urgent Treatment Centre,Discharged
+NHS_1173,St Marys Hospital,2026-09-05 21:15:00,2026-09-05 22:12:00,57,Minors,Discharged
+NHS_1174,Charing Cross Hospital,2026-09-02 00:44:00,2026-09-02 02:31:00,107,Minors,Discharged
+NHS_1175,St Marys Hospital,2026-09-06 10:58:00,2026-09-06 13:37:00,159,Minors,Discharged
+NHS_1176,St Marys Hospital,2026-09-01 14:23:00,2026-09-01 20:29:00,366,Majors,Discharged
+NHS_1177,St Marys Hospital,2026-09-02 22:30:00,2026-09-03 02:29:00,239,Urgent Treatment Centre,Discharged
+NHS_1178,St Marys Hospital,2026-09-06 03:28:00,2026-09-06 04:11:00,43,Minors,Discharged
+NHS_1179,Hammersmith Hospital,2026-09-07 01:55:00,2026-09-07 03:20:00,85,Majors,Discharged
+NHS_1180,Hammersmith Hospital,2026-09-04 13:16:00,2026-09-04 17:09:00,233,Minors,Admitted
+NHS_1181,St Marys Hospital,2026-09-09 14:23:00,2026-09-09 14:59:00,36,Resus,Discharged
+NHS_1182,Charing Cross Hospital,2026-09-05 04:19:00,2026-09-05 04:51:00,32,Majors,Discharged
+NHS_1183,Charing Cross Hospital,2026-09-02 05:17:00,2026-09-02 09:50:00,273,Minors,Admitted
+NHS_1184,Charing Cross Hospital,2026-09-06 06:14:00,2026-09-06 09:14:00,180,Majors,Discharged
+NHS_1185,Charing Cross Hospital,2026-09-05 10:14:00,2026-09-05 16:17:00,363,Minors,Admitted
+NHS_1186,St Marys Hospital,2026-09-05 18:52:00,2026-09-05 22:43:00,231,Majors,Discharged
+NHS_1187,Hammersmith Hospital,2026-09-02 03:58:00,2026-09-02 05:05:00,67,Majors,Discharged
+NHS_1188,Charing Cross Hospital,2026-09-03 06:02:00,2026-09-03 08:26:00,144,Majors,Admitted
+NHS_1189,St Marys Hospital,2026-09-04 05:16:00,2026-09-04 06:00:00,44,Majors,Discharged
+NHS_1190,Charing Cross Hospital,2026-09-01 17:39:00,2026-09-01 20:07:00,148,Minors,Discharged
+NHS_1191,Charing Cross Hospital,2026-09-05 15:08:00,2026-09-05 16:05:00,57,Majors,Discharged
+NHS_1192,St Marys Hospital,2026-09-10 08:31:00,2026-09-10 09:39:00,68,Minors,Admitted
+NHS_1193,Hammersmith Hospital,2026-09-07 21:14:00,2026-09-07 22:00:00,46,Minors,Admitted
+NHS_1194,Hammersmith Hospital,2026-09-08 23:46:00,2026-09-09 01:41:00,115,Minors,Discharged
+NHS_1195,St Marys Hospital,2026-09-03 04:37:00,2026-09-03 07:12:00,155,Urgent Treatment Centre,Left before seen
+NHS_1196,Hammersmith Hospital,2026-09-05 02:35:00,2026-09-05 03:48:00,73,Minors,Discharged
+NHS_1197,St Marys Hospital,2026-09-08 12:17:00,2026-09-08 19:36:00,439,Majors,Admitted
+NHS_1198,St Marys Hospital,2026-09-08 14:01:00,2026-09-08 18:21:00,260,Resus,Discharged
+NHS_1199,St Marys Hospital,2026-09-07 19:09:00,2026-09-07 19:51:00,42,Majors,Discharged
